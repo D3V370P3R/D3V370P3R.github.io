@@ -1,5 +1,4 @@
-# Männertag Forever Trip 2023
-Die Idee ist ein Männer Paddel tour zu machen.
+Die Idee ist eine richtige Männer-Paddel-tour zu machen.
 
 ## WO
 ### Mecklenburgische Seenplatte
